@@ -1,0 +1,6 @@
+# PixelPal — Desktop Pet
+# No external dependencies required (uses Python standard library only).
+# 
+# For building the .exe:
+#   pip install pyinstaller
+#   (PyInstaller is a build tool, not a runtime dependency)
